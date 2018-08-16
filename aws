@@ -1,2 +1,3 @@
 /var/lib/jenkins/va
+echo ""
 aws ec2 describe-instances|grep -i instanceid
