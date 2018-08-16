@@ -1,0 +1,2 @@
+/var/lib/jenkins/va
+aws ec2 describe-instances|grep -i instanceid
