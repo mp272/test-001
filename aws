@@ -1,5 +1,2 @@
 # This is a test
-/var/lib/jenkins/va
-echo ""
-echo "This is a test build"
 aws ec2 describe-instances|grep -i instanceid
